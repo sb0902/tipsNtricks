@@ -63,6 +63,8 @@
 34. **SecurityKiss.com**
 35. **http://www.linuxcommand.org** -This site gets you familiar with linux terminal commands.(Beginners should definitely visit this.)
 36. **blackboxrepack.com** - Download games in one click
+37. **IndiaBix** **http://www.indiabix.com** Learn and practice Aptitude questions and answers with explanation, for interview, competitive examination and entrance test. 
+38. **Codrops http://tympanus.net/codrops/** Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
@@ -118,6 +120,7 @@
 39. Screen - used on a remote server to create multiple terminals
 40. **Easy Stroke Gesture recorder** -  control your desktop using mouse gestures
 41. [__fzf__](https://github.com/junegunn/fzf) - a genral purpose command line fuzzy finder, install it nd press `Ctrl + R` or `Ctrl + T` or `ALT + C` in terminal to see the magic.
+42. Create Wifi Hotspot in Ubuntu http://ubuntuhandbook.org/index.php/2014/09/3-ways-create-wifi-hotspot-ubuntu/
 
 ## Windows softwares and unilities
 1. **Putty** - ssh tunnelling in windows.
